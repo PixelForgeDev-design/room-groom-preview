@@ -1,0 +1,60 @@
+<svg width="128" height="112" viewBox="0 0 128 112" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Room Groom logo</title>
+  <desc id="desc">A warm stylized dog with a cat inside, adapted for the Room Groom palette.</desc>
+  <path
+    d="M22 56C14.4 56 8 50.8 8 43.7c0-7 6.4-12.3 14.2-12.3 4.3 0 8 1.5 10.8 4.1 7.2-12.4 18.2-20.1 31-20.1 12.9 0 23.7 7.8 31 20.1 2.8-2.6 6.6-4.1 10.9-4.1 7.7 0 14.1 5.3 14.1 12.3 0 7.1-6.4 12.3-14 12.3h-4.2c.1 2.4.2 4.8.2 7.3v21.2c0 6.9-5.6 12.5-12.5 12.5H38.5C31.6 97 26 91.4 26 84.5V63.3c0-2.5.1-4.9.2-7.3H22Z"
+    fill="#4A2B1F"
+  />
+  <path
+    d="M32.5 55.5c-9.8 1.7-15.8 7.7-15.8 15.2 0 7.9 6.4 13.1 14.4 11.2 5.4-1.3 9.4-5.6 10.8-11.2"
+    fill="#4A2B1F"
+  />
+  <path
+    d="M95.5 55.5c9.8 1.7 15.8 7.7 15.8 15.2 0 7.9-6.4 13.1-14.4 11.2-5.4-1.3-9.4-5.6-10.8-11.2"
+    fill="#4A2B1F"
+  />
+  <circle cx="50" cy="42" r="8.2" fill="#FFF8EE"/>
+  <circle cx="78" cy="42" r="8.2" fill="#FFF8EE"/>
+  <circle cx="52" cy="40" r="4.8" fill="#4A2B1F"/>
+  <circle cx="80" cy="40" r="4.8" fill="#4A2B1F"/>
+  <circle cx="48.4" cy="37.4" r="2.2" fill="#FFF8EE"/>
+  <circle cx="76.4" cy="37.4" r="2.2" fill="#FFF8EE"/>
+  <path d="M59 53.2c0-2.3 2.3-4.2 5-4.2s5 1.9 5 4.2c0 2.4-2.3 4.4-5 4.4s-5-2-5-4.4Z" fill="#FFF8EE"/>
+  <path
+    d="M64 57.2v3.6M64 60.8c-3.7 5.4-12.2 5.3-15.6-.3M64 60.8c3.7 5.4 12.2 5.3 15.6-.3"
+    stroke="#FFF8EE"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+  <path
+    d="M43 74.8c0-12 9.4-21.8 21-21.8s21 9.8 21 21.8V97H43V74.8Z"
+    fill="#FFF8EE"
+  />
+  <path d="M48 63 54 52.8 59.5 64M80 63l-6-10.2L68.5 64" fill="#FFF8EE"/>
+  <circle cx="57" cy="73" r="3.2" fill="#4A2B1F"/>
+  <circle cx="71" cy="73" r="3.2" fill="#4A2B1F"/>
+  <path d="M61 82.2c0-1.5 1.4-2.7 3-2.7s3 1.2 3 2.7-1.4 2.8-3 2.8-3-1.3-3-2.8Z" fill="#4A2B1F"/>
+  <path
+    d="M64 85v2.5M64 87.5c-2.3 3.4-7.5 3.3-9.6-.2M64 87.5c2.3 3.4 7.5 3.3 9.6-.2"
+    stroke="#4A2B1F"
+    stroke-width="2.6"
+    stroke-linecap="round"
+  />
+  <path
+    d="M84 90.5c8.2-1.2 13-6 13-12.3 0-4.3-2.5-7.6-6.2-8.7"
+    stroke="#E8892E"
+    stroke-width="6"
+    stroke-linecap="round"
+  />
+  <path
+    d="M27 37c7.8-14.6 20.6-24 37-24s29.2 9.4 37 24"
+    stroke="#E8892E"
+    stroke-width="5"
+    stroke-linecap="round"
+    opacity=".95"
+  />
+  <path
+    d="M44 97h40c-2.5 6-9.7 10-20 10s-17.5-4-20-10Z"
+    fill="#789568"
+  />
+</svg>

@@ -257,7 +257,7 @@ async function getCatalog() {
   const apiResponse = await fetch("/api/catalog", { headers: { accept: "application/json" } }).catch(() => null);
   if (apiResponse && apiResponse.ok) return apiResponse.json();
 
-  const localResponse = await fetch("./data/catalog.json", { headers: { accept: "application/json" } });
+  const localResponse = await fetch("./data/catalog.json?v=2", { headers: { accept: "application/json" } });
   if (!localResponse.ok) throw new Error("Catalog file not found");
   return localResponse.json();
 }
